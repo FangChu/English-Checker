@@ -1,1 +1,6 @@
 /* no style yet */
+
+.goleft{ 
+	float:left;
+	margin-right: 10px;
+}
